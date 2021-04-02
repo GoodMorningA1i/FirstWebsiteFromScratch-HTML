@@ -4,11 +4,12 @@
 
 ![image](https://user-images.githubusercontent.com/52847195/113431638-099dec00-93aa-11eb-8bb3-f9500fc89d69.png)
 
-A simple HTML website, the very first website that I created from scratch instead of using a template.
+A simple HTML website with a tint of CSS, the very first website that I created from scratch instead of using a template.
 
 ### Built With
 
 - HTML
+- CSS
 - Atom Code Editor
 
 ## Getting Started
